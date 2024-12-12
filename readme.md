@@ -1,6 +1,6 @@
-# # Game API - Game of Roles v2
+# Legendary Forge
 
-API REST desarrollada en Flask para gestionar la lógica del juego Game of Roles v2.
+API REST desarrollada en Flask para gestionar la lógica del juego Legendary Forge.
 
 ## Descripción
 
